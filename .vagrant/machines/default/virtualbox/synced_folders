@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/project":{"guestpath":"/var/www/project","hostpath":"C:/www/ZF1","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/www/ZF1","disabled":false}}}
